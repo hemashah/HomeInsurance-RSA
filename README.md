@@ -82,4 +82,4 @@ Functionalities
 • user can see which optional cover is selected
 • user can toggle between paying monthly or annually.
 • user always sees the total accurate price.
-• user can see which extras he has selected
+• user can see which extras he has selected"# HomeInsurance-RSA" 
