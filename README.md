@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+Title:Home Insurance product
+Displays current plan of the User
+ 
+Functionalities
+
+
+• user able to add extras to the quote.
+• user able to remove extras from the quote.
+• user can see which optional cover is selected
+• user can toggle between paying monthly or annually.
+• user always sees the total accurate price.
+• user can see which extras he has selected

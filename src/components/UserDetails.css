@@ -1,0 +1,46 @@
+
+      .body-wrapper {
+        background-color: white;
+        border-bottom: 1px solid lightgrey;
+      
+      }
+
+      .page-title{
+        border: 1px solid black;
+        font:25px black;
+        font-weight:500;
+        padding:20px;
+        text-align:left;
+
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+      .leftcol-wrapper{
+        width:50%;
+        float:left;
+        padding-left:20px;
+        /* background-color: rgb(239, 243, 252); */
+        margin-top:70px;
+        
+      }
+        .name-header{
+            text-align:left;
+        
+        }
+
+        .text-quote{
+            line-height:40px;
+            text-align: left;
+            padding-top:20px;
+            font-weight:500;
+          }
+  .rightCol-monthPayment{
+
+    background-color:white;
+    border:1px solid purple;
+    height:200px;
+    width:40%;
+  }
+  .name-header{
+  font: 40px black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;     
+  }

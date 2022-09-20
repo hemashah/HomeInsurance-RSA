@@ -1,5 +1,11 @@
+
+
 .App {
   text-align: center;
+  border:2px solid black;
+  overflow-y:auto;
+  background-color: rgb(239, 243, 252);
+  font-family: sans-serif;
 }
 
 .App-logo {
@@ -36,3 +42,12 @@
     transform: rotate(360deg);
   }
 }
+* {
+  box-sizing: border-box;
+}
+.optionalCover-title{
+  font-size: 40px;
+  text-align:left;
+  padding:20px;
+}
+
